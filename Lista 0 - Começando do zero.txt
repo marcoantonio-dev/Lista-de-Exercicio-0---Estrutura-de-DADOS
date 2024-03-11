@@ -1,0 +1,24 @@
+PARA QUEM QUER COMEÇAR DO ZERO1. Faça um programa que receba dois números inteiros, calcule e imprima: • soma dos dois números;
+• subtração do primeiro pelo segundo;
+• subtração do segundo pelo primeiro;
+• multiplicação dos dois números;
+• divisão do primeiro pelo segundo (resultado em real);
+• divisão do segundo pelo primeiro (resultado em real);
+• quociente inteiro da divisão do primeiro pelo segundo;
+• quociente inteiro da divisão do segundo pelo primeiro;
+• resto da divisão do primeiro pelo segundo;
+• resto da divisão do segundo pelo primeiro.
+2. Faça um programa que receba três notas de um aluno, calcule e imprima a média aritmética entre essas notas.
+3. Faça um programa que receba o valor de um depósito e o valor da taxa de juros. Calcule e imprima o valor do rendimento e o valor total depois do rendimento.
+4. Faça um programa que receba um número real e imprima:
+• a parte inteira do número;
+• a parte fracionária do número;
+• arredondamento do número (sem casas decimais).
+5. Faça um programa que receba um número inteiro, calcule e imprima: • a raiz quadrada desse número (sqrt());
+• esse número elevado ao quadrado.
+6. Faça um programa que receba a idade de uma pessoa em anos, calcule e imprima essa idade em: • Meses, Dias, Horas e Minutos.
+7. Faça um programa que calcule a área de um triângulo.
+8. Faça um programa que calcule e imprima a área de um círculo.
+9. Faça um programa que calcule e imprima a área de um trapézio.
+10. Faça um programa que receba o salário de um funcionário, calcule e imprima o valor do imposto de
+renda a ser pago, sabendo que o imposto equivale a 5% do salário.
